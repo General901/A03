@@ -28,7 +28,9 @@ Click the blue **Push** origin button near the upper right. The initial **commit
 3. You will be presented with the '**Get From Version Control**' menu, with the '**Repository URL**' already selected. From here you can paste the link to your **GitHub repository** and then select **Clone**.
     - Alternatively, you can select the '**GitHub**' from the side-menu where you will be prompted to enter your login information. Once logged-in you will be able to select from existing repositories in your **GitHub**.
 
-### Step 5: Saving a project From github
+### Step 5: Additional 
+Once the focus of the branch is completed, a **pull** request must be created to **merge** all of the changes.
+GitHub and GitHub desktop allows to restore from the change history in the even of a **merge conflict**. 
  ## Part 2: Glossary 
     - Define Terms
 ### Branch
