@@ -3,7 +3,7 @@
 
 ### Step 1: Accessing Webstorm: 
 
-1. From the [Academic Licensing](https://www.jetbrains.com/community/education/#students) page select 'Apply Now' under the 'For Students and Teachers Tab.
+1. From the Academic Licensing page select 'Apply Now' under the 'For Students and Teachers Tab.
 2. You will be see a form requesting your personal and university information. Where it says 'Apply With' select 'Offical Document.'
 3. Fill out the required information as a Student and upload a file with your student ID.
 4. Accept the JetBrains Agreement and select 'Apply for free Products'
